@@ -1,2 +1,2 @@
 # Basic_project
-creating the first project
+creating the new mini project
